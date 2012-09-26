@@ -14,22 +14,22 @@ background_color        #FFFFFF
 # Input controls
 input_panel_x           50%
 input_panel_y           50%
-input_name_x            450
-input_name_y            259
+input_name_x            146
+input_name_y            669
 input_pass_x			-1
 input_pass_y			-1
-input_font          	Verdana:size=22:bold
+input_font          	Verdana:size=24:bold
 input_color           	#1AA3D1
 
 # Username / password request
 username_font          	Verdana:size=11:bold
 username_color        	#1AA3D1
 # souradnice username_msg
-username_x              530
-username_y              295
+username_x              50%
+username_y              620
 # souradnice password_msg
-password_x              530
-password_y              295
+password_x              50%
+password_y              620
 
 username_msg            Please enter your username
 password_msg            Please enter your password

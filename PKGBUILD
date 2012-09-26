@@ -1,7 +1,7 @@
 # Maintainer: Daniel Hillenbrand <codeworkx@bbqlinux.org>
 
 pkgname=bbqlinux-themes-slim
-pkgver=0.0.1
+pkgver=0.0.2
 pkgrel=1
 pkgdesc="BBQLinux Slim Themes"
 arch=('any')
