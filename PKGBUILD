@@ -1,9 +1,10 @@
 # Maintainer: Daniel Hillenbrand <codeworkx@bbqlinux.org>
 
 pkgname=bbqlinux-themes-slim
-pkgver=0.0.2
+pkgver=0.0.3
 pkgrel=1
 pkgdesc="BBQLinux Slim Themes"
+depends=('slim')
 arch=('any')
 url="https://github.com/bbqlinux/bbqlinux-themes-slim"
 license=('GPL')
